@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6b751e97e8473204a984dd1c61b34d9a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Limelight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20a99f5816b6d3d47a668576abb73c2e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
